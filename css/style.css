@@ -1,0 +1,11 @@
+h1 {
+    font-size: 3rem;
+}
+
+.row {
+    justify-content: space-evenly;
+}
+
+.navbar {
+    padding: 3rem;
+}
